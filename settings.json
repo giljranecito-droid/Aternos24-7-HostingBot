@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "guzzhi Bot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "LegendOFLandSMP.aternos.me",
     "port": 33343,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
